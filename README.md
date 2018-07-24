@@ -3,6 +3,7 @@ utility to check my own writing for repetitive use of words (other than stopword
 
 Usage:
 In the same directory as "my_awesome_file.txt", type this at the command line:
+
 python check_for_repetition.py my_awesome_file.txt
 
 You will get terminal output of sentences that appear to have repetition, such as:
